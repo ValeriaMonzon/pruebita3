@@ -28,6 +28,7 @@ public class Guia5Ejer4P1 {
                 
             }
            System.out.println("hola a todos ");   
+           //ahora no rompo mas nada//
         }
         System.out.println("------------------------");
            for (int j = 0; j < 4; j++) {
