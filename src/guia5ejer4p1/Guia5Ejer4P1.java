@@ -27,7 +27,7 @@ public class Guia5Ejer4P1 {
                 System.out.print(matriz [i][j]);
                 
             }
-           System.out.println(" ");   
+           System.out.println("hola a todos ");   
         }
         System.out.println("------------------------");
            for (int j = 0; j < 4; j++) {
